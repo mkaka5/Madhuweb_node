@@ -1,0 +1,65 @@
+{
+  "webseries":[
+    {
+    "series_id":1,
+    "series_myList":"Breaking Bad",
+    "series_image":"https://imgs.search.brave.com/jTyoTg1khKXwbc2YDe6cMS_As2FSggR4q4ATL-_iors/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvNzgx/ODUwLmpwZw",
+    "series_recentlyadded": "Breaking Bad: Better Call Saul",
+    "series_trending":"Breaking Bad",
+    "series_genre": "Drama",
+    "series_topSearches": 100,
+    "series_downloads": 250000
+  
+  },
+  {
+    "series_id":2,
+    "series_myList":"Stranger Things",
+    "series_image":"https://imgs.search.brave.com/f1_ULukUcL0h3fQAWJtn0bfhoDofmFYm1ik9hLlJ9dw/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDE4Mzk1/ODIuanBn",
+    "series_recentlyadded": "The Witcher",
+    "series_trending":"The Witcher",
+    "series_genre": "Fantasy",
+    "series_topSearches": 150,
+    "series_downloads": 5000
+  },
+  {
+    "series_id":3,
+    "series_myList":"Game of Thrones",
+    "series_image":"https://imgs.search.brave.com/n3VjqekPtvBRCTGKzejTE44e1IaqjUegCaK9iewO750/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXItbWFuaWEu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE4LzA5L0hpZ2hf/cmVzb2x1dGlvbl93/YWxscGFwZXJfYmFj/a2dyb3VuZF9JRF83/NzcwMDYxMjczOC5q/cGc",
+    "series_recentlyadded": "Game of Thrones: House of the Dragon",
+    "series_trending":"Game of Thrones",
+    "series_genre": "Fantasy",
+    "series_topSearches": 200,
+    "series_downloads": 1000000
+  },
+  {
+    "series_id":4,
+    "series_myList":"Money Heist",
+    "series_image":"https://imgs.search.brave.com/w5Tp9R9T3l_oKMRBRcXEH37_uLD281sA3GRmphhsWzw/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMzLmFscGhhY29k/ZXJzLmNvbS8xMzEv/MTMxOTc4MC5qcGVn",
+    "series_recentlyadded": "Narcos",
+    "series_trending":"Narcos",
+    "series_genre": "Crime",
+    "series_topSearches": 50,
+    "series_downloads": 1500
+  },
+  {
+    "series_id":5,
+    "series_myList":"Black Mirror",
+    "series_image":"https://imgs.search.brave.com/OD-mEaEFUxmc8-kw1CgVuoxR09S52yr71F2JPh5kLds/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvZmVhdHVy/ZWQvYmxhY2stbWly/cm9yLWdicXV4OG41/cG5kd2pkcm4uanBn",
+    "series_recentlyadded": "Black Mirror: Bandersnatch",
+    "series_trending":"Black Mirror",
+    "series_genre": "Sci-Fi",
+    "series_topSearches": 80,
+    "series_downloads": 100
+  },
+  {
+    "series_id":6,
+    "series_myList":"The Mandalorian",
+    "series_image":"https://imgs.search.brave.com/Ky5-MkQmMK3o2c87OMdFBl3mZvNEp_uWxfE2ukVWrDc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jNC53/YWxscGFwZXJmbGFy/ZS5jb20vd2FsbHBh/cGVyLzk4MS84NTAv/NDI0L3RoZS1tYW5k/YWxvcmlhbi1kb3Vi/bGUtZXhwb3N1cmUt/cG9zdGVyLWhkLXdh/bGxwYXBlci1wcmV2/aWV3LmpwZw",
+    "series_recentlyadded": "The Mandalorian: Book of Boba Fett",
+    "series_trending":"The Mandalorian",
+    "series_genre": "Sci-Fi",
+    "series_topSearches": 70,
+    "series_downloads": 2000
+  }
+  ]
+}
